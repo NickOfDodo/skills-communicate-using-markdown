@@ -55,13 +55,6 @@ var myVar = "Hello, world!";
 var myVar = "Hello, world!";
 ```
 
-### Exercice
-
-```python
-for i in range(10):
-  print("hello hello"*i)
-```
-
 ### :keyboard: Activity: Adding a code example
 
 1. As you did before, edit the file in this pull request.
